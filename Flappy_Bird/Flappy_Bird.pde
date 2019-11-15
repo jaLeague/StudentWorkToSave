@@ -9,6 +9,7 @@ boolean stillUp = false;
 int [] pipeUpper = new int[10];
 int[] pipeX = new int[10];
 void setup(){
+  // another test
 background(0,0,250);
 size(200,450);
 for(int i = 0; i<10; i += 1){
