@@ -18,7 +18,7 @@ pipeX[i] = i*200+(int)random(0,70);
 }
 void draw(){
   background(0,0,250);
-  fill(255,255,153);
+  fill(255,255,100);
 rect(100,birdY,20,10);
 fill(250,250,250);
 text("bird",100,birdY);
